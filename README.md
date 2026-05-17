@@ -2,7 +2,7 @@
 <h3 align="center">💻Developer | 🧑‍💻Programmer | 🤖AI Enthusiast | ⚙️Innovation Focused | 🤔Problem Solver | 💻Coding Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Engineering+Student;Learning+C%2B%2B+and+DSA;Open+Source+Contributor;Future+Software+Engineer;💻+Developer;🧑‍💻+Programmer;🤖+AI+Enthusiast;⚙️+Innovation+Focused;🤔+Problem+Solver;💻+Coding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&width=435&lines=Developer;Programmer;AI+Enthusiast;+Innovation+Focused;Problem+Solver+;Coding+Enthusiast;Engineering+Student;Learning+DSA;Open+Source+Contributor;Future+Software+Engineer" />
 </p>
 
 ---
