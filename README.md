@@ -1,3 +1,12 @@
+<h1 align="center">Yo! 😎, Aditya Parashar Here</h1>
+<h3 align="center">💻Developer | 🧑‍💻Programmer | 🤖AI Enthusiast | ⚙️Innovation Focused | 🤔Problem Solver | 💻Coding Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Engineering+Student;Learning+C%2B%2B+and+DSA;Open+Source+Contributor;Future+Software+Engineer;💻+Developer;🧑‍💻+Programmer;🤖+AI+Enthusiast;⚙️+Innovation+Focused;🤔+Problem+Solver;💻+Coding+Enthusias" alt="Typing SVG" />
+</p>
+
+---
+
 # 💫 About Me:
 📡 I’m currently working on Improving my C programming, DSA problem-solving, and building projects.<br>🧩 I’m looking to collaborate on open-source projects, beginner C/Python utilities, and simple web development projects.<br>🧠 I’m looking for help with writing optimized C code, learning advanced DSA concepts, and understanding real-world project structures.<br>🌱 I’m currently learning C, Python, DSA, Git/GitHub, and basic web development (HTML/CSS/JS).<br>💬 Ask me about C basics, Git/GitHub usage, problem-solving strategies.<br>⚡ Fun fact I break code faster than I fix it - but I learn something new every time.
 
