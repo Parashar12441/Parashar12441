@@ -2,7 +2,7 @@
 <h3 align="center">💻Developer | 🧑‍💻Programmer | 🤖AI Enthusiast | ⚙️Innovation Focused | 🤔Problem Solver | 💻Coding Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&width=435&lines=Developer;Programmer;AI+Enthusiast;+Innovation+Focused;Problem+Solver+;Coding+Enthusiast;Engineering+Student;Learning+DSA;Open+Source+Contributor;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&center=true&width=435&lines=Developer;Programmer;AI+Enthusiast;+Innovation+Focused;Problem+Solver+;Coding+Enthusiast;Engineering+Student;Learning+DSA;Open+Source+Contributor;Future+Software+Engineer)" />
 </p>
 
 ---
