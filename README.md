@@ -22,11 +22,14 @@
 # 📊 GitHub Stats:
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=parashar12441&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parashar12441&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
 
-![](https://streak-stats.demolab.com?user=parashar12441&theme=dark&hide_border=false)<br/>
+  <img src="https://streak-stats.demolab.com?user=parashar12441&theme=dark&hide_border=false" />
+  <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parashar12441&theme=dark&hide_border=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashar12441&theme=dark&hide_border=false&layout=compact" />
+
 </p>
 
 ## 🏆 GitHub Trophies
